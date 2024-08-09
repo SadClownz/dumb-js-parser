@@ -1,4 +1,5 @@
 export const Kind = {
+  default: -1,
   EOF: 0,
   Number: 1,
   Plus: 2,
